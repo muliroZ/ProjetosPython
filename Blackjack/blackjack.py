@@ -272,7 +272,6 @@ while True:
             aposta_seguro = aposta/2
         elif seguro() == False:
             break
-        else: None
 
         if gameplay():
             break
