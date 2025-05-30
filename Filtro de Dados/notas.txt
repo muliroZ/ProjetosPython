@@ -1,0 +1,7 @@
+Filtro de Dados
+
+Interface simples usando a biblioteca tkinter
+
+Filtra dados de uma tabela .csv qualquer, permitindo que o usuário escreva a coluna e o valor que deseja filtrar, retornando o resultado na caixa de texto
+
+nota #1: ainda não dispõe de tratamento de erros, adicionarei com o tempo
